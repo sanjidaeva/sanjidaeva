@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...python 
 - 💞️ I’ve  experience in latex basic knowledge of C programming Java and database  ...
-- 📫 How to reach me ...
+- 📫 TO reach me please follow me on facebook account (Ev A) and mail (muktaeva11@gmail.com)
 
 <!---
 sanjidaeva/sanjidaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
